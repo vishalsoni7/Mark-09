@@ -75,7 +75,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1> 🎥 Movi∄s </h1>
+      <h1> Movi∄s 🎥 </h1>
       <p style={{ fontSize: "smaller" }}>
         {" "}
         <strong>
